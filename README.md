@@ -4,7 +4,7 @@ This repository contains the code and data necessary for single nuclei transcrip
 
 ## Project Structure
 
-- **PTPRF_SingleCell_Validation_Paper_Figure.R**: Main analysis script for performing Seurat-based single-cell analysis.
+- **PTPRF_SingleCell_Validation_Paper_Figure.R**: Main analysis script for performing Seurat-based single-nuclei analysis.
 - **Dockerfile**: Docker container setup for reproducibility.
 - **annot_humanAll.csv**: Annotation file used for cell metadata integration.
 - **repo/**: Contains essential files and scripts for the project.
