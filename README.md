@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive single-nuclei RNA sequencing (snRNA-seq) analysis pipeline for investigating transcription factor expression patterns in human liver tissue. The analysis compares hepatic cell populations between lean and obese individuals, with a focus on key metabolic transcription factors including PTPRF, NFYA, ARNT, NFATC2, NR4A2, and SP1.
+This repository is part of a worldwide translational transcription factor project aimed at validating PTPRF (Protein Tyrosine Phosphatase Receptor Type F) as a therapeutic target. The broader initiative explores transcription factor regulatory networks across species (mouse and human) and multiple experimental platforms including bulk RNA-seq (human), bulk RNA-seq (mouse), and single-nuclei RNA-seq (human). This specific GitHub repository focuses on the single-nuclei RNA sequencing (snRNA-seq) component, providing a comprehensive analysis pipeline for investigating transcription factor expression patterns in human liver tissue. The analysis compares hepatic cell populations between lean and obese individuals, examining the expression and co-regulation of PTPRF alongside key metabolic transcription factors including NFYA, ARNT, NFATC2, NR4A2, and SP1 at single-cell resolution.
 
 ![Single-nuclei PTPRF Expression Analysis](sncell_ptprf.png)
 *Figure: Single-nuclei RNA-seq analysis of PTPRF and associated transcription factors in human liver atlas*
